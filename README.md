@@ -1,3 +1,4 @@
+
 The Address Book is a simple Python application designed to manage and organize contact information. Users can add, update, delete, and search for contacts in an efficient manner. The project demonstrates basic file handling and command-line interface (CLI) interactions.
 
 Features
